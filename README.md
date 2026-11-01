@@ -1,2 +1,2 @@
 # belajar-python
-Repo laihan python ria
+Repo latihan python ria
